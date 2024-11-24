@@ -31,7 +31,7 @@ Page Object Model + BDD 기반 APP 테스트 자동화 구현 템플릿 (Python 
 │   ├── test_scenario.feature : feature, scenario, given, when, then으로 TC 표현
 │   ├── environment.py : behave, scenario, step hook 별 동작 구현
 │   └── steps
-│       └── step_definitions.py : scenario, step 구현
+│       └── step_definitions.py : scenario, step 구현 page 파일들 위치
 ├── pages : 페이지 별 동작, element 구현
 ├── reports : 테스트 결과 파일
 ├── utilities : 유틸 파일 위치
