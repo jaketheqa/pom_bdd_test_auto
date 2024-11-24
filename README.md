@@ -1,8 +1,6 @@
 # Test Automation Template
 Page Object Model + BDD 기반 APP 테스트 자동화 구현 템플릿 (Python Version.)
 
-→ **Python, Appium** 활용
-
 &nbsp;
 
 ## 구현
